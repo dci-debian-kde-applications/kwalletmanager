@@ -16,7 +16,7 @@ Homepage: http://www.kde.org
 Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kwallet.git
 Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kwallet.git
 
-Package: kwallet
+Package: kwalletmanager
 Architecture: any
 Section: utils
 Depends: ${shlibs:Depends}, ${misc:Depends}
@@ -30,16 +30,16 @@ Description: secure password wallet manager
  .
  This package is part of the KDE SC utilities module.
 
-Package: kwallet-dbg
+Package: kwalletmanager-dbg
 Architecture: any
 Section: debug
 Priority: extra
-Depends: kwallet (= ${binary:Version}), ${misc:Depends}
+Depends: kwalletmanager (= ${binary:Version}), ${misc:Depends}
 Breaks: kdeutils-dbg (<< 4:4.8)
 Replaces: kdeutils-dbg (<< 4:4.8)
-Description: debugging symbols for kwallet
- This package contains the debugging symbols for kwallet. It is to be used
- in order to be able provide proper back traces for possible crashes or
- for running kwallet in gdb or valgrind for meaningful output.
+Description: debugging symbols for kwalletmanager
+ This package contains the debugging symbols for kwalletmanager. It is to be
+ used in order to be able provide proper back traces for possible crashes or
+ for running kwalletmanager in gdb or valgrind for meaningful output.
  .
  This package is part of the KDE SC utilities module.
