@@ -1,6 +1,10 @@
 kwallet (4:4.8.4-2) UNRELEASED; urgency=low
 
   * The "I forgot the epoch" release.
+  * Update debian/copyright:
+    - Correct doc license to GFDL-NIV-1.2+.
+    - Add a comment to the doc license to explain why some keywords appear and
+      how they are expanded later
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 21 Jun 2012 14:01:20 -0300
 
