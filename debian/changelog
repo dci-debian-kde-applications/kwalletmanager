@@ -1,5 +1,6 @@
-kwallet (4.8.4-2) UNRELEASED; urgency=low
+kwallet (4:4.8.4-2) UNRELEASED; urgency=low
 
+  * The "I forgot the epoch" release.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 21 Jun 2012 14:01:20 -0300
 
