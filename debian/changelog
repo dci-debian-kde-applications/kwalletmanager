@@ -1,4 +1,9 @@
-kwallet (4:4.8.4-2) UNRELEASED; urgency=low
+kwallet (4:4.8.4-3) UNRELEASED; urgency=low
+
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Nov 2012 21:49:47 +0100
+
+kwallet (4:4.8.4-2) unstable; urgency=low
 
   * The "I forgot the epoch" release.
   * Update debian/copyright:
