@@ -1,5 +1,9 @@
 kwallet (4:4.8.4-3) UNRELEASED; urgency=low
 
+  [ Pino Toscano ]
+  * Backport upstream commit e893896200ad352be8d4110f780333f888b0fb94 to fix
+    amazingly slow kwalletmanager startup; patch
+    upstream_Fix-amazingly-slow-kwalletmanager-startup.patch.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Nov 2012 21:49:47 +0100
 
