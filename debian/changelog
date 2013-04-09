@@ -1,8 +1,10 @@
-kwallet (4:4.10.0-0r1) UNRELEASED; urgency=low
+kwallet (4:4.10.2-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Bump kde-sc-dev-latest to 4:4.10.2.
+  * Bump libkde5-dev to 4:4.10.
 
- -- Diane Trout <diane@ghic.org>  Sun, 03 Mar 2013 10:56:18 -0800
+ -- Diane Trout <diane@ghic.org>  Mon, 08 Apr 2013 21:19:58 -0700
 
 kwallet (4:4.8.4-3) unstable; urgency=low
 
