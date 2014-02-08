@@ -1,7 +1,10 @@
+etc/dbus-1/system.d/org.kde.kcontrol.kcmkwallet.conf
 usr/bin/kwalletmanager
 usr/lib/kde4/kcm_kwallet.so
+usr/lib/kde4/libexec/kcm_kwallet_helper
 usr/share/applications/kde4/kwalletmanager-kwalletd.desktop
 usr/share/applications/kde4/kwalletmanager.desktop
+usr/share/dbus-1/system-services/org.kde.kcontrol.kcmkwallet.service
 usr/share/doc/kde/HTML/*/kwallet/*
 usr/share/icons/hicolor/128x128/apps/kwalletmanager.png
 usr/share/icons/hicolor/128x128/apps/kwalletmanager2.png
@@ -19,3 +22,4 @@ usr/share/kde4/apps/kwalletmanager/icons/hicolor/22x22/actions/folder_open.png
 usr/share/kde4/apps/kwalletmanager/kwalletmanager.rc
 usr/share/kde4/services/kwalletconfig.desktop
 usr/share/kde4/services/kwalletmanager_show.desktop
+usr/share/polkit-1/actions/org.kde.kcontrol.kcmkwallet.policy
