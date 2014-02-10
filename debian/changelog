@@ -1,10 +1,10 @@
-kwallet (4:4.12.2-1) UNRELEASED; urgency=medium
+kwallet (4:4.12.2-1) experimental; urgency=medium
 
   * New upstream release.
   * Update install files.
   * Bump kde-sc-dev-latest build dependency.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 23:50:27 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:31:35 +0100
 
 kwallet (4:4.11.3-1) unstable; urgency=low
 
