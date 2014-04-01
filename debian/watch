@@ -1,2 +1,2 @@
 version=3
-ftp://ftp.kde.org/pub/kde/stable/([\d\.]*)/src/kwallet-([\d\.]*).tar.xz
+ftp://ftp.kde.org/pub/kde/stable/([\d\.]*)/src/kwalletmanager-([\d\.]*).tar.xz
