@@ -1,8 +1,8 @@
-kwallet (4:4.14.0-1) UNRELEASED; urgency=medium
+kwallet (4:4.14.0-1) unstable; urgency=medium
 
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Aug 2014 18:21:07 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 20 Aug 2014 05:31:59 +0200
 
 kwallet (4:4.13.3-1) unstable; urgency=medium
 
