@@ -1,7 +1,7 @@
 kwalletmanager (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 08:38:42 -0800
@@ -255,7 +255,7 @@ kwalletmanager (4:4.10.80-0ubuntu1) saucy; urgency=low
   * New upstream release
 
   [ Howard Chan ]
-  * Fixed the install files. 
+  * Fixed the install files.
 
  -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 21 Jun 2013 01:40:22 +0100
 
@@ -425,7 +425,7 @@ kwalletmanager (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kwalletmanager (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 21:53:49 +0100
 
@@ -463,4 +463,3 @@ kwallet (4.8.4-1) unstable; urgency=low
     - Breaks+Replaces kdeutils-dbg << 4:4.8.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 18 Jun 2012 17:36:48 -0300
-
