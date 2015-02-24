@@ -1,6 +1,7 @@
 kwalletmanager (4:14.12.2-1~) UNRELEASED; urgency=medium
 
   * Prepare Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 14:41:43 +0100
 
