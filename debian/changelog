@@ -1,3 +1,15 @@
+kwalletmanager (4:15.08.3-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+  * Added a recommends to libkf5wallet-bin as I have been 
+    fighting with a non functional kwallet. kwalletd5.desktop
+    in said package is required to make kwalletmanager functional.
+    This may be wrong place, but previously it was in kde-runtime 
+    which no longer exists in kf5 environment. Taking an
+    educated guess. Closes (LP:1416320) 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 11 Nov 2015 17:40:57 -0800
+
 kwalletmanager (4:15.08.2-0ubuntu1) wily; urgency=medium
 
   * Vivid backport
