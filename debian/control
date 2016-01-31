@@ -43,15 +43,3 @@ Description: secure password wallet manager
  the KDE Wallet.
  .
  This package is part of the KDE SC utilities module.
-
-Package: kwalletmanager-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: kwalletmanager (= ${binary:Version}), ${misc:Depends}
-Description: debugging symbols for kwalletmanager
- This package contains the debugging symbols for kwalletmanager. It is to be
- used in order to be able provide proper back traces for possible crashes or
- for running kwalletmanager in gdb or valgrind for meaningful output.
- .
- This package is part of the KDE SC utilities module.
