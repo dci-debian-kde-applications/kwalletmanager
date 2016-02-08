@@ -8,26 +8,27 @@ Uploaders: Fathi Boudra <fabo@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: cmake,
+Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0),
-               kdoctools-dev,
-               libkf5auth-dev,
-               libkf5config-dev,
-               libkf5configwidgets-dev,
-               libkf5coreaddons-dev,
-               libkf5dbusaddons-dev,
-               libkf5i18n-dev,
-               libkf5kcmutils-dev,
-               libkf5kdelibs4support-dev,
-               libkf5service-dev,
-               libkf5xmlgui-dev,
+               kdoctools-dev (>= 5.2.0~),
+               libkf5auth-dev (>= 5.2.0~),
+               libkf5config-dev (>= 5.2.0~),
+               libkf5configwidgets-dev (>= 5.2.0~),
+               libkf5coreaddons-dev (>= 5.2.0~),
+               libkf5dbusaddons-dev (>= 5.2.0~),
+               libkf5i18n-dev (>= 5.2.0~),
+               libkf5kcmutils-dev (>= 5.2.0~),
+               libkf5kdelibs4support-dev (>= 5.2.0~),
+               libkf5service-dev (>= 5.2.0~),
+               libkf5wallet-dev (>= 5.2.0~),
+               libkf5xmlgui-dev (>= 5.2.0~),
                pkg-kde-tools (>= 0.12),
                qtbase5-dev (>= 5.2.0)
 Standards-Version: 3.9.6
 Homepage: http://www.kde.org
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/kwalletmanager.git/
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kwalletmanager.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/applications/kwalletmanager.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/kwalletmanager.git
 
 Package: kwalletmanager
 Architecture: any
@@ -40,17 +41,5 @@ Description: secure password wallet manager
  .
  KWallet Manager is a utility for viewing and editing information stored in
  the KDE Wallet.
- .
- This package is part of the KDE SC utilities module.
-
-Package: kwalletmanager-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: kwalletmanager (= ${binary:Version}), ${misc:Depends}
-Description: debugging symbols for kwalletmanager
- This package contains the debugging symbols for kwalletmanager. It is to be
- used in order to be able provide proper back traces for possible crashes or
- for running kwalletmanager in gdb or valgrind for meaningful output.
  .
  This package is part of the KDE SC utilities module.
