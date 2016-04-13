@@ -1,3 +1,11 @@
+kwalletmanager (4:15.12.3-1~1.gbp60611f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @60611f6856eb32b870cd2bfb25652d3cca99fa43 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:37:51 +0200
+
 kwalletmanager (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
