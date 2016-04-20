@@ -1,10 +1,11 @@
-kwalletmanager (4:15.12.3-1~1.gbp60611f) UNRELEASED; urgency=medium
+kwalletmanager (4:16.04.0-1~1.gbp313d79) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @60611f6856eb32b870cd2bfb25652d3cca99fa43 **
+  ** SNAPSHOT build @313d7994ab91d398d6429b468bf7a741dad30563 **
 
   * Bump Standards-Version to 3.9.8
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:37:51 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 00:37:11 +0200
 
 kwalletmanager (4:15.12.1-1) experimental; urgency=medium
 
