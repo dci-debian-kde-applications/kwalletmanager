@@ -1,8 +1,10 @@
-kwalletmanager (4:15.12.2-1~) UNRELEASED; urgency=medium
+kwalletmanager (4:16.04.0-1~1.gbp313d79) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @313d7994ab91d398d6429b468bf7a741dad30563 **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:47:26 +0100
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 00:37:11 +0200
 
 kwalletmanager (4:15.12.1-1) experimental; urgency=medium
 
