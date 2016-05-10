@@ -1,6 +1,6 @@
-kwalletmanager (4:16.04.0-1~2.gbpd3a46f) UNRELEASED; urgency=medium
+kwalletmanager (4:16.04.1-1~1.gbpbafc76) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @d3a46f88ae24d0581b6a993a9218d8927c2b436e **
+  ** SNAPSHOT build @bafc7610e87981cd9b6ff1d00571c1b371954e34 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @313d7994ab91d398d6429b468bf7a741dad30563 **
@@ -12,8 +12,9 @@ kwalletmanager (4:16.04.0-1~2.gbpd3a46f) UNRELEASED; urgency=medium
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:14:22 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:37:15 +0200
 
 kwalletmanager (4:15.12.1-1) experimental; urgency=medium
 
