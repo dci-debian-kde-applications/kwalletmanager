@@ -1,6 +1,4 @@
-kwalletmanager (4:16.04.1-1~1.gbpbafc76) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @bafc7610e87981cd9b6ff1d00571c1b371954e34 **
+kwalletmanager (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
@@ -11,7 +9,7 @@ kwalletmanager (4:16.04.1-1~1.gbpbafc76) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:37:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 02:16:30 +0200
 
 kwalletmanager (4:15.12.1-1) experimental; urgency=medium
 
