@@ -1,14 +1,21 @@
+kwalletmanager (4:16.04.1-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+  [ Maximiliano Curia ]
+  * New upstream release (15.12.2).
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 02:16:30 +0200
+
 kwalletmanager (4:16.04.1-0neon) xenial; urgency=medium
 
   * New release
 
  -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:42:59 +0200
-
-kwalletmanager (4:15.12.2-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (15.12.2).
-
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:47:26 +0100
 
 kwalletmanager (4:15.12.1-1) experimental; urgency=medium
 
