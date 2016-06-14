@@ -1,3 +1,11 @@
+kwalletmanager (4:16.04.2-1~1.gbp780be3) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @780be314b864afab2e13b217221b8b18aa3a1f34 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 00:37:12 +0200
+
 kwalletmanager (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
