@@ -34,6 +34,7 @@ Package: kwalletmanager
 Architecture: any
 Section: utils
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Recommends: kde-runtime
 Description: secure password wallet manager
  The KDE Wallet system provides a secure way to store passwords and other
  secret information, allowing the user to remember only a single KDE Wallet
