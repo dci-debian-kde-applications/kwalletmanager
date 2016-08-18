@@ -1,10 +1,11 @@
-kwalletmanager (4:16.04.3-1~1.gbp64caa9) UNRELEASED; urgency=medium
+kwalletmanager (4:16.08.0-1~1.gbpfcf6a3) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @64caa9d28eeb7bc0faa4592a1c951e5e33eb2aed **
+  ** SNAPSHOT build @fcf6a396e087dd9f5e432e0e204269793d18cefe **
 
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 13 Jul 2016 00:37:21 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:37:18 +0200
 
 kwalletmanager (4:16.04.2-1) unstable; urgency=medium
 
