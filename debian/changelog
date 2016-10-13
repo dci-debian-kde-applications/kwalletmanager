@@ -1,6 +1,6 @@
-kwalletmanager (4:16.08.1-1~2.gbp14068a) UNRELEASED; urgency=medium
+kwalletmanager (4:16.08.2-1~1.gbpe1f389) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @14068ae527177309a5377c555282148ba14e43f0 **
+  ** SNAPSHOT build @e1f38920d21a59a37f29b4f34cb1d29c58d9fe91 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @fcf6a396e087dd9f5e432e0e204269793d18cefe **
@@ -8,11 +8,12 @@ kwalletmanager (4:16.08.1-1~2.gbp14068a) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * Update install files
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 10 Sep 2016 08:19:27 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 14 Oct 2016 00:37:27 +0200
 
 kwalletmanager (4:16.04.2-1) unstable; urgency=medium
 
