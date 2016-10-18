@@ -1,19 +1,13 @@
-kwalletmanager (4:16.08.2-1~1.gbpe1f389) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @e1f38920d21a59a37f29b4f34cb1d29c58d9fe91 **
+kwalletmanager (4:16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @fcf6a396e087dd9f5e432e0e204269793d18cefe **
-
-  * UNRELEASED
-  * UNRELEASED
+  * New upstream release (16.08.2)
   * Update install files
-  * UNRELEASED
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 14 Oct 2016 00:37:27 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 18 Oct 2016 09:46:43 +0200
 
 kwalletmanager (4:16.04.2-1) unstable; urgency=medium
 
