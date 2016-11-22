@@ -8,6 +8,8 @@
 /usr/share/doc/HTML/*/kwallet5/
 /usr/share/icons/hicolor/*/apps/kwalletmanager.png
 /usr/share/icons/hicolor/*/apps/kwalletmanager2.png
+/usr/share/icons/hicolor/22x22/actions/wallet-closed.png
+/usr/share/icons/hicolor/22x22/actions/wallet-open.png
 /usr/share/kservices5/kwalletconfig5.desktop
 /usr/share/kservices5/kwalletmanager5_show.desktop
 /usr/share/kxmlgui5/kwalletmanager5/
