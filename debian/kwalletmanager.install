@@ -10,6 +10,5 @@
 /usr/share/icons/hicolor/*/apps/kwalletmanager2.png
 /usr/share/kservices5/kwalletconfig5.desktop
 /usr/share/kservices5/kwalletmanager5_show.desktop
-/usr/share/kwalletmanager5/
 /usr/share/kxmlgui5/kwalletmanager5/
 /usr/share/polkit-1/actions/org.kde.kcontrol.kcmkwallet5.policy
