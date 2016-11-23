@@ -1,10 +1,8 @@
-kwalletmanager (4:16.08.3-1~1.gbp920132) UNRELEASED; urgency=medium
+kwalletmanager (4:16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @920132d4afd1128df6a46de5c92174268ee3200c **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 11 Nov 2016 00:37:18 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 21:17:58 +0100
 
 kwalletmanager (4:16.08.2-1) unstable; urgency=medium
 
