@@ -1,6 +1,6 @@
 /etc/dbus-1/system.d/org.kde.kcontrol.kcmkwallet5.conf
 /usr/bin/kwalletmanager5
-/usr/lib/*/libexec/kauth/kcm_kwallet_helper5
+/usr/lib/libexec/kauth/kcm_kwallet_helper5
 /usr/lib/*/qt5/plugins/kcm_kwallet5.so
 /usr/share/applications/kwalletmanager5-kwalletd.desktop
 /usr/share/applications/org.kde.kwalletmanager5.desktop
